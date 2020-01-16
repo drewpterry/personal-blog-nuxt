@@ -5,7 +5,9 @@
     aria-label="main navigation"
   >
     <div class="navbar-brand">
-      <nuxt-link class="navbar-item" to="/"></nuxt-link>
+      <nuxt-link class="navbar-item" to="/">
+        DT
+      </nuxt-link>
       <hamburger-button @click="active = !active" />
     </div>
 

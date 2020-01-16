@@ -4,7 +4,7 @@ title: >-
   Speaking Japanese
 subtitle: Just a random story
 category:
-  - About Awake
+  - Japan
 author: Drew Terry
 date: 2020-01-16T15:00:12.129Z
 featureImage: uploads/contact-hero.jpg

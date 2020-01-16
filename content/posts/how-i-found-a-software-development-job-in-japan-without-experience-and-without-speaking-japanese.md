@@ -27,7 +27,7 @@ After a month of searching (which really isn’t that long, but remember I only 
 
 At this time I was a fairly active user of [Quora](http://quora.com), a question-and-answer site that was becoming quite popular in the US. I had written both answers and some questions and had gotten helpful responses fairly frequently. So I decided to post a question on Quora directly asking what I was looking for.
 
-![Quora question](uploads/quora_answer.png "Question I posted on Quora")
+![Quora question](_nuxt/uploads/quora_answer.png "Question I posted on Quora")
 
 I posted this question without much hope but it only took a few seconds to write so I had nothing to lose. And then one day I got a response:
 

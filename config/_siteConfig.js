@@ -9,9 +9,9 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
-  featureImage: '/uploads/home-hero.jpg',
+  siteName: 'Drew Terry',
+  tagline: 'Some tech guy in Tokyo',
+  featureImage: '/uploads/odaiba_lanterns.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
@@ -25,20 +25,6 @@ export default {
     {
       name: 'Contact',
       link: '/contact'
-    },
-    {
-      name: 'Categories',
-      link: '/categories'
-    },
-    {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
-      target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
     }
   ],
   hero: {
@@ -48,7 +34,7 @@ export default {
   // Main Layout/Style
   layout: {
     width: 'contained', // Options: contained, full
-    theme: 'one-column' // Options: one-column, sidebar-right, sidebar-left
+    theme: 'sidebar-right' // Options: one-column, sidebar-right, sidebar-left
   },
 
   // Card Layout
@@ -66,7 +52,7 @@ export default {
 
   // Newsletter Subscribe
   newsletter: {
-    on: true,
+    on: false,
     heading: 'Subscribe to Our Newsletter',
     btnText: 'Subscribe',
     // Can be the form action on a mail chimp form, a hubspot form,
@@ -84,7 +70,7 @@ export default {
 
   // Categories
   categories: {
-    on: true,
+    on: false,
     perPage: 6,
     imageDimensions: null, // See card.imageDimensions (can be unique for categories if set here)
     theme: null // See card.theme (can be unique for categories if set here)

@@ -25,13 +25,13 @@ Basically, the general message was that if I wanted to live in Japan it was not 
 
 After a month of searching (which really isn’t that long, but remember I only had 2 months to find a job) literally everyone I talked to basically said that I either needed way more experience to find a business-related job, or be nearly fluent in Japanese. I didn’t want to give up, so I did what everyone does in this situation — I asked strangers on the internet for help.
 
-At this time I was a fairly active user of[Quora](http://quora.com), a question-and-answer site that was becoming quite popular in the US. I had written both answers and some questions and had gotten helpful responses fairly frequently. So I decided to post a question on Quora directly asking what I was looking for.
+At this time I was a fairly active user of [Quora](http://quora.com), a question-and-answer site that was becoming quite popular in the US. I had written both answers and some questions and had gotten helpful responses fairly frequently. So I decided to post a question on Quora directly asking what I was looking for.
 
-![Quora question](uploads/Screen Shot 2020-01-17 at 00.04.39.png "Question I posted on Quora")
+![Quora question](uploads/quora_answer.png "Question I posted on Quora")
 
 I posted this question without much hope but it only took a few seconds to write so I had nothing to lose. And then one day I got a response:
 
-![Quora answer](uploads/Screen Shot 2020-01-17 at 00.04.39.png)
+![Quora answer](uploads/quora_answer.png)
 
 Of course I dropped him a line and we set up a time to chat.
 

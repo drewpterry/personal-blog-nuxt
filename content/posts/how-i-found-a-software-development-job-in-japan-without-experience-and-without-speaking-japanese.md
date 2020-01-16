@@ -7,7 +7,7 @@ category:
   - Japan
 author: Drew Terry
 date: 2020-01-16T15:00:12.129Z
-featureImage: /uploads/getting-started-hero.jpg
+featureImage: /uploads/purge-css-hero.jpg
 ---
 I moved to Tokyo to start a software engineering job about 4 years ago in December of 2015. Since I’ve been here I’ve gotten a lot of questions on how I was able to find that job especially since I spoke very little Japanese and most importantly because I didn’t have a computer science degree or any professional engineering experience.
 
@@ -27,7 +27,7 @@ After a month of searching (which really isn’t that long, but remember I only 
 
 At this time I was a fairly active user of [Quora](http://quora.com), a question-and-answer site that was becoming quite popular in the US. I had written both answers and some questions and had gotten helpful responses fairly frequently. So I decided to post a question on Quora directly asking what I was looking for.
 
-![Quora question](/nuxt/uploads/quora_answer.png "Question I posted on Quora")
+![Quora question](/uploads/quora_question.png "Question I posted on Quora")
 
 I posted this question without much hope but it only took a few seconds to write so I had nothing to lose. And then one day I got a response:
 

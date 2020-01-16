@@ -7,7 +7,7 @@ category:
   - Japan
 author: Drew Terry
 date: 2020-01-16T15:00:12.129Z
-featureImage: uploads/cat-1045782_1920.jpg
+featureImage: uploads/getting-started-hero.jpg
 ---
 I moved to Tokyo to start a software engineering job about 4 years ago in December of 2015. Since I’ve been here I’ve gotten a lot of questions on how I was able to find that job especially since I spoke very little Japanese and most importantly because I didn’t have a computer science degree or any professional engineering experience.
 

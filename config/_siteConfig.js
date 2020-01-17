@@ -14,18 +14,18 @@ export default {
   featureImage: '/uploads/odaiba_lanterns.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
-    on: true,
+    on: false,
     id: process.env.GOOGLE_ANALYTICS_ID
   },
   mainMenu: [
-    {
-      name: 'About',
-      link: '/about'
-    },
-    {
-      name: 'Contact',
-      link: '/contact'
-    }
+    // {
+    // name: 'About',
+    // link: '/about'
+    // },
+    // {
+    // name: 'Contact',
+    // link: '/contact'
+    // }
   ],
   hero: {
     theme: 'dark' // options: mist, light, dark

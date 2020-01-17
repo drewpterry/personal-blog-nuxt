@@ -15,6 +15,22 @@
           {{ subtitle }}
         </h2>
         <br />
+        <figure class="image is-32x32 is-inline-block">
+          <a href="https://www.linkedin.com/in/drewpterry/">
+            <img src="~/assets/uploads/linkedin-icon.svg" />
+          </a>
+        </figure>
+        <figure class="image is-32x32 is-inline-block">
+          <a href="https://github.com/drewpterry">
+            <img src="~/assets/uploads/github-icon.svg" />
+          </a>
+        </figure>
+        <figure class="image is-32x32 is-inline-block">
+          <a href="https://twitter.com/drewpterry">
+            <img src="~/assets/uploads/twitter-icon.svg" />
+          </a>
+        </figure>
+        <br />
         <div
           v-if="$slots.default"
           class="under-subtitle animated fadeInDown slower"
@@ -53,6 +69,9 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+.image {
+  background-color: transparent;
+}
 .hero {
   margin-top: 52px;
   background-size: cover !important;

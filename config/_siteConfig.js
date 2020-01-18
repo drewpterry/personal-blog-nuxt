@@ -14,7 +14,7 @@ export default {
   featureImage: '/uploads/odaiba_lanterns.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
-    on: false,
+    on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
   },
   mainMenu: [
@@ -47,7 +47,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'lazy', // Options: onload, lazy, button
-    siteShortName: 'drewterry.io' // 'drewterry.io'
+    siteShortName: 'drewterry.com' // 'drewterry.com'
   },
 
   // Newsletter Subscribe

@@ -13,7 +13,7 @@ I moved to Tokyo to start a software engineering job about 4 years ago in Decemb
 
 I’ve decided to share the steps I followed to find my first engineering job in Japan and hopefully others will be able to learn from it.
 
-**Step 1. Don’t graduate with a job already in hand—go to Japan**
+### Step 1. Don’t graduate with a job already in hand—go to Japan
 
 After graduating from college I was really lost in terms of what I wanted to do with my life and I didn’t have a job. Most of the jobs typical business majors aspire to do, namely consulting and investment banking, wasn’t for me so I decided that I would do a two month language course in Japan and hopefully figure stuff out after that. I didn’t really have any intention of moving to Japan or finding a job in Japan; to be honest, I was just really interested in the language and the culture. I realized that the only way I would ever learn Japanese to a level at which I would be satisfied would be if I lived and breathed Japanese every single day and the only way that was going to happen was to live in Japan. I made a decision that I was going to find a way to live in Japan. As an American this meant that I would need to get a visa that would allow me to stay for an extended period of time. This left me with a few options — I could enroll full time in an intensive language school, I could go to graduate school, or I could find a job. Since I had just spent the last 4 years in college, and wasn’t really looking to spend another couple years paying tuition, I decided my only option was to find a job here. I was a new college graduate with no full time professional experience, and I really didn’t speak any Japanese…I could probably pass N5 and that was about it…
 
